@@ -6,7 +6,8 @@
   "dict": {
     "repo_deps": [
       {
-        "repo_uoa": "ck-env"
+        "repo_uoa": "ck-env",
+        "checkout":"32c433c"
       }, 
       {
         "repo_uoa": "ck-analytics"
